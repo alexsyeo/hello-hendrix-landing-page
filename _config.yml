@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: assets/icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Lingopeel # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Speak and learn Korean.
+app_description: The \#1 App for language speaking practice.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -57,8 +57,8 @@ features:
       description: Review vocabulary through fun exercises designed to improve your retention, listening and pronunciation.
       fontawesome_icon_name: dumbbell
 
-    - title: Supporting various native languages
-      description: Choose from English, French, Spanish, and German as your native language.
+    - title: Supporting various languages
+      description: Choose from Korean, Japanese, Chinese, English, Spanish, French, German, Italian, and Portuguese.
       fontawesome_icon_name: globe
 
     - title: Direct Communication Line with Developer
